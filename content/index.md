@@ -1,5 +1,7 @@
 ---
 title: Notas de un autodidacta
+tags:
+    - Inicio
 ---
 
 Esta será una serie de notas que personalmente llenaré con mis estudios personales
